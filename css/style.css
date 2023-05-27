@@ -43,6 +43,7 @@ body {
 
 .menu_mini {
     color: #000000;
+    cursor: pointer;
 }
 
 .menu_mini:hover {
